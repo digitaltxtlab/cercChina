@@ -1,5 +1,7 @@
-# cercChina
+# Modeling Ancient Chinese Text for CERC 
 Chinese Corpus for Culture Evolution of Religion Consortium
+
+corpus from http://ctext.org/
 
 ## Collaboators <br/>
 Period  | Name
